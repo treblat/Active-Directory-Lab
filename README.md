@@ -1,4 +1,4 @@
-![Cyber Banner](./cyber_banner.png)
+
 
 # Anthony Talbert Jr. — Tier 1 SOC Analyst Portfolio 🛡️
 
