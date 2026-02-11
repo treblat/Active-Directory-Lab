@@ -25,10 +25,10 @@ Transitioning U.S. Army Military Police Soldier with hands-on cybersecurity lab 
 
 ##  Certifications
 
-- ✅ CompTIA A+  
-- ✅ CompTIA Security+  
-- 📚 CompTIA Network+ (In Progress)  
-- 📚 CompTIA CySA+ (In Progress)
+-  CompTIA A+  
+-  CompTIA Security+  
+-  CompTIA Network+ (In Progress)  
+-  CompTIA CySA+ (In Progress)
 
 ---
 
