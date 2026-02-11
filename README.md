@@ -1,6 +1,6 @@
 
 
-# Anthony Talbert Jr. — Tier 1 SOC Analyst Portfolio 🛡️
+# Anthony Talbert Jr. — Tier 1 SOC Analyst Portfolio 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/anthony-talbert-jr-005399391)
 [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-success)](#)
@@ -13,7 +13,7 @@
 
 Transitioning U.S. Army Military Police Soldier with hands-on cybersecurity lab experience focused on Security Operations Center (SOC) Tier 1 workflows.
 
-## 🔥 Featured SOC Projects
+##  Featured SOC Projects
 
 - Active Directory Home Lab  (coming soon)
 - Splunk SIEM Detection Lab  (coming soon)
@@ -23,7 +23,7 @@ Transitioning U.S. Army Military Police Soldier with hands-on cybersecurity lab 
 
 ---
 
-## 📌 Certifications
+##  Certifications
 
 - ✅ CompTIA A+  
 - ✅ CompTIA Security+  
@@ -32,12 +32,12 @@ Transitioning U.S. Army Military Police Soldier with hands-on cybersecurity lab 
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 [LinkedIn Profile](https://www.linkedin.com/in/anthony-talbert-jr-005399391)
 
 ---
 
-## ⭐ Career Objective
+##  Career Objective
 
 Seeking an entry-level SOC Analyst Tier 1 role applying military discipline and defensive cybersecurity expertise.
