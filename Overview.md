@@ -7,7 +7,6 @@
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)](#)
 [![Network+ (In Progress)](https://img.shields.io/badge/CompTIA-Network%2B_In%20Progress-yellow)](#)
 [![CySA+ (In Progress)](https://img.shields.io/badge/CompTIA-CySA%2B_In%20Progress-orange)](#)
-[![Splunk](https://img.shields.io/badge/SIEM-Splunk-black)](#)
 
 ---
 
@@ -34,8 +33,8 @@ Transitioning U.S. Army Military Police Soldier with hands-on cybersecurity lab 
 
 ##  Connect With Me
 
-[LinkedIn Profile](https://www.linkedin.com/in/anthony-talbert-jr-005399391)
-[Resume]
+- [LinkedIn Profile](https://www.linkedin.com/in/anthony-talbert-jr-005399391)
+- [Resume](https://github.com/treblat/SOC-Analyst-Lab-Portfolio/blob/main/Civillian%20Resume.pdf)
 
 ---
 
