@@ -15,11 +15,11 @@ Transitioning U.S. Army Military Police Soldier with hands-on cybersecurity lab 
 
 ## 🔥 Featured SOC Projects
 
-- Active Directory Home Lab  
-- Splunk SIEM Detection Lab  
-- Vulnerability Management (Nessus)  
-- Phishing Incident Response  
-- Wireshark Traffic Analysis  
+- Active Directory Home Lab  (coming soon)
+- Splunk SIEM Detection Lab  (coming soon)
+- Vulnerability Management (Nessus) (coming soon) 
+- Phishing Incident Response (coming soon)
+- Wireshark Traffic Analysis (coming soon)
 
 ---
 
