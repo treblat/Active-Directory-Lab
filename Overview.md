@@ -35,6 +35,7 @@ Transitioning U.S. Army Military Police Soldier with hands-on cybersecurity lab 
 ##  Connect With Me
 
 [LinkedIn Profile](https://www.linkedin.com/in/anthony-talbert-jr-005399391)
+[Resume]
 
 ---
 
