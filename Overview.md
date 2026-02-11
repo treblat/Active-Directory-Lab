@@ -17,7 +17,7 @@ Transitioning U.S. Army Military Police Soldier with hands-on cybersecurity lab 
 
 - [Active Directory Home Lab](https://github.com/treblat/SOC-Analyst-Lab-Portfolio/blob/main/Active-directory-home-lab.md) 
 - [Splunk SIEM Detection Lab](https://github.com/treblat/SOC-Analyst-Lab-Portfolio/blob/main/splunk-siem-detections.md) 
-- [Vulnerability Management (Nessus)] 
+- [Vulnerability Management (Nessus)](https://github.com/treblat/SOC-Analyst-Lab-Portfolio/blob/main/vulnerability-management-nessus.md) 
 - [Phishing Incident Response](https://github.com/treblat/SOC-Analyst-Lab-Portfolio/blob/main/phishing-incident-response.md)  
 - [Wireshark Traffic Analysis] 
 
