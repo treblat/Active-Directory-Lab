@@ -1,38 +1,36 @@
-# Active Directory Home Lab + Attack Detection
+# Active Directory Home Lab
 
 ## Objective
-The purpose of this lab was to build a small enterprise-style Active Directory environment and simulate common authentication attacks in order to understand how Tier 1 SOC analysts monitor and respond to suspicious AD activity.
+The purpose of this lab was to build a small enterprise-style Active Directory environment, configure windows server, setup users/OU's, and create, modify, and assign GPO's.
 
 ## Tools Used
+- VMWare for Workstation Pro
 - Windows Server 2022 (Domain Controller)
+- Windows Server 2022 (Replicated Domain Controller)
 - Windows 10 Client Machine
-- Kali Linux (Attacker VM)
-- Sysmon + Windows Event Logs
-- Splunk (Log Monitoring)
 
 ## Lab Environment
 - Domain Controller: Windows Server 2022
+- Domain Controller: Windows Server 2022 (Replicated Domain Controller)
 - Client Machine: Windows 10 joined to the domain
-- Attacker Machine: Kali Linux
-- Monitoring: Splunk ingesting Security Event Logs
-
+ 
 ## Steps Performed
-1. Installed and configured Active Directory Domain Services (AD DS)
-2. Created domain users, groups, and organizational units
-3. Enabled logging and installed Sysmon for enhanced visibility
-4. Simulated password spraying and brute force login attempts
-5. Investigated Event IDs related to failed authentication attempts (4625)
-6. Documented indicators of compromise and defensive recommendations
-
+1. Created internal network
+2. Installed and configured Active Directory Domain Services (AD DS) and DNS and configured static IP addressing for all nodes.
+3. Created domain users, groups, and organizational units and assigned users.
+4. Deployed GPO's to groups and individual users such as password, and lockout policies.
+5. Added a second Domain Controller using replication for high availability and fault tolerance.
+ 
 ## Results (Screenshots)
 - Domain user creation and OU structure
 - Splunk logs showing multiple failed login attempts
 - Detection queries for abnormal authentication behavior
 
-## SOC Analyst Takeaways
+## Takeaways
 - Active Directory is a frequent target in enterprise environments
 - Authentication logs provide critical evidence for Tier 1 alert triage
 - Proper monitoring and account lockout policies reduce attack success
+- Correct configuration of DNS is crucial for ensuring connection to a domain.
 
 ## Next Improvements
 - Implement Group Policy hardening
