@@ -27,12 +27,14 @@ The purpose of this lab was to build a small enterprise-style Active Directory e
 - Detection queries for abnormal authentication behavior
 
 ## Takeaways
-- Active Directory is a frequent target in enterprise environments
-- Authentication logs provide critical evidence for Tier 1 alert triage
-- Proper monitoring and account lockout policies reduce attack success
-- Correct configuration of DNS is crucial for ensuring connection to a domain.
+- Correct network configuration is crucial for ensuring connection to a domain.
+- Replication of a DC provides high availability and fault tolerance.
+- AD simplifies and centralizes multiple aspects of managing a domain in an enterprise envrionment.
+- Correct network configuration is crucial for ensuring connection to a domain.
+- Active Directory is a frequent target in enterprise environments without hardening
 
 ## Next Improvements
-- Implement Group Policy hardening
-- Add Kerberoasting detection logic
-- Expand to multi-domain forest simulation
+- Implements Splunk SIEM Detection Lab
+- Vulnerability Management (Nessus)
+- Phishing Incident Response
+- Wireshark Traffic Analysis
