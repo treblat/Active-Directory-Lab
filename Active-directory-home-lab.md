@@ -19,7 +19,8 @@ The purpose of this lab was to build a small enterprise-style Active Directory e
 2. Installed and configured Active Directory Domain Services (AD DS) and DNS and configured static IP addressing for all nodes.
 3. Created domain users, groups, and organizational units and assigned users.
 4. Deployed GPO's to groups and individual users such as password, and lockout policies.
-5. Added a second Domain Controller using replication for high availability and fault tolerance.
+5. Added a second Domain Controller using replication for high availability, redundancy and fault tolerance.
+6. Performed AD Hardening
  
 ## Results (Screenshots)
 - Domain user creation and OU structure
