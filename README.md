@@ -35,7 +35,7 @@ The purpose of this lab was to build a small enterprise-style Active Directory e
 - Active Directory is a frequent target in enterprise environments without hardening.
 
 ## Next Improvements
-- Implements Splunk SIEM Detection Lab
+- Implement Splunk SIEM Detection Lab
 - Vulnerability Management (Nessus)
 - Phishing Incident Response
 - Wireshark Traffic Analysis
