@@ -1,4 +1,4 @@
-# Active Directory Home Lab
+# Active Directory Home Lab + Hardening
 
 ## Objective
 The purpose of this lab was to build a small enterprise-style Active Directory environment, configure windows server, setup users/OU's, and create, modify, and assign GPO's.
