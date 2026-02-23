@@ -29,10 +29,10 @@ The purpose of this lab was to build a small enterprise-style Active Directory e
 
 ## Takeaways
 - Correct network configuration is crucial for ensuring connection to a domain.
-- Replication of a DC provides high availability and fault tolerance.
+- Replication of a DC provides high availability, redundancy and fault tolerance.
 - AD simplifies and centralizes multiple aspects of managing a domain in an enterprise envrionment.
-- Correct network configuration is crucial for ensuring connection to a domain.
-- Active Directory is a frequent target in enterprise environments without hardening
+- Hardening AD DS reduces the attack surface from many different types of attacks.
+- Active Directory is a frequent target in enterprise environments without hardening.
 
 ## Next Improvements
 - Implements Splunk SIEM Detection Lab
