@@ -35,6 +35,7 @@ The purpose of this lab was to build a small enterprise-style Active Directory e
 - Active Directory is a frequent target in enterprise environments.
 
 ## Next Improvements
+- Harden AD DS further
 - Implement Splunk SIEM Detection Lab
 - Vulnerability Management (Nessus)
 - Phishing Incident Response
