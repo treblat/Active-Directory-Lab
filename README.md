@@ -22,17 +22,17 @@ The purpose of this lab was to build a small enterprise-style Active Directory e
 5. Added a second Domain Controller using replication for high availability, redundancy and fault tolerance.
 6. Performed AD Hardening
  
-## Results (Screenshots)
-- Domain user creation and OU structure
-- Splunk logs showing multiple failed login attempts
-- Detection queries for abnormal authentication behavior
+## [Results (Screenshots)](https://github.com/treblat/Active-Directory-Lab/blob/main/AD%20DS%20Homelab%20screenshots.pdf)
+- Domain creation
+- Group Policy Management Console
+- AD DS Hardening
 
 ## Takeaways
 - Correct network configuration is crucial for ensuring connection to a domain.
 - Replication of a DC provides high availability, redundancy and fault tolerance.
 - AD simplifies and centralizes multiple aspects of managing a domain in an enterprise envrionment.
 - Hardening AD DS reduces the attack surface from many different types of attacks.
-- Active Directory is a frequent target in enterprise environments without hardening.
+- Active Directory is a frequent target in enterprise environments.
 
 ## Next Improvements
 - Implement Splunk SIEM Detection Lab
