@@ -1,7 +1,7 @@
 # Active Directory Home Lab + Hardening
 
 ## Objective
-The purpose of this lab was to build a small enterprise-style Active Directory environment, configure windows server, setup users/OU's, and create, modify, assign GPO's, and harden AD DS.
+The purpose of this lab was to build a small enterprise-style Active Directory environment, configure windows server, setup users/OU's, create, modify, assign GPO's, and harden AD DS.
 
 ## Tools Used
 - VMWare for Workstation Pro
